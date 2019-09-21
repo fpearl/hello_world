@@ -1,4 +1,4 @@
 hello_world
 ===========
 
-This is my first attempt to create and use a git repository
+This is my first attempt to create and use a git repository. Here, I have added a sentence.
