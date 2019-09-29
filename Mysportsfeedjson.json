@@ -1,0 +1,381 @@
+{
+  "lastUpdatedOn": "2018-08-28T21:37:03.498Z",
+  "games": [
+    {
+      "schedule": {
+        "id": 40516,
+        "week": 11,
+        "startTime": "2017-11-19T18:00:00.000Z",
+        "endedTime": null,
+        "awayTeam": {
+          "id": 61,
+          "abbreviation": "DET"
+        },
+        "homeTeam": {
+          "id": 60,
+          "abbreviation": "CHI"
+        },
+        "venue": {
+          "id": 48,
+          "name": "Soldier Field"
+        },
+        "venueAllegiance": "NEUTRAL",
+        "scheduleStatus": "NORMAL",
+        "originalStartTime": null,
+        "delayedOrPostponedReason": null,
+        "playedStatus": "COMPLETED",
+        "attendance": null,
+        "officials": [],
+        "broadcasters": [],
+        "weather": null
+      },
+      "score": {
+        "currentQuarter": null,
+        "currentQuarterSecondsRemaining": null,
+        "currentIntermission": null,
+        "teamInPossession": null,
+        "currentDown": null,
+        "currentYardsRemaining": null,
+        "lineOfScrimmage": null,
+        "awayScoreTotal": 27,
+        "homeScoreTotal": 24,
+        "quarters": [
+          {
+            "quarterNumber": 1,
+            "awayScore": 0,
+            "homeScore": 10
+          },
+          {
+            "quarterNumber": 2,
+            "awayScore": 21,
+            "homeScore": 7
+          },
+          {
+            "quarterNumber": 3,
+            "awayScore": 0,
+            "homeScore": 0
+          },
+          {
+            "quarterNumber": 4,
+            "awayScore": 6,
+            "homeScore": 7
+          }
+        ]
+      }
+    },
+    {
+      "schedule": {
+        "id": 40514,
+        "week": 11,
+        "startTime": "2017-11-19T18:00:00.000Z",
+        "endedTime": null,
+        "awayTeam": {
+          "id": 76,
+          "abbreviation": "ARI"
+        },
+        "homeTeam": {
+          "id": 64,
+          "abbreviation": "HOU"
+        },
+        "venue": {
+          "id": 55,
+          "name": "NRG Stadium"
+        },
+        "venueAllegiance": "NEUTRAL",
+        "scheduleStatus": "NORMAL",
+        "originalStartTime": null,
+        "delayedOrPostponedReason": null,
+        "playedStatus": "COMPLETED",
+        "attendance": null,
+        "officials": [],
+        "broadcasters": [],
+        "weather": null
+      },
+      "score": {
+        "currentQuarter": null,
+        "currentQuarterSecondsRemaining": null,
+        "currentIntermission": null,
+        "teamInPossession": null,
+        "currentDown": null,
+        "currentYardsRemaining": null,
+        "lineOfScrimmage": null,
+        "awayScoreTotal": 21,
+        "homeScoreTotal": 31,
+        "quarters": [
+          {
+            "quarterNumber": 1,
+            "awayScore": 0,
+            "homeScore": 0
+          },
+          {
+            "quarterNumber": 2,
+            "awayScore": 14,
+            "homeScore": 10
+          },
+          {
+            "quarterNumber": 3,
+            "awayScore": 7,
+            "homeScore": 7
+          },
+          {
+            "quarterNumber": 4,
+            "awayScore": 0,
+            "homeScore": 14
+          }
+        ]
+      }
+    },
+    {
+      "schedule": {
+        "id": 40512,
+        "week": 11,
+        "startTime": "2017-11-19T18:00:00.000Z",
+        "endedTime": null,
+        "awayTeam": {
+          "id": 66,
+          "abbreviation": "JAX"
+        },
+        "homeTeam": {
+          "id": 58,
+          "abbreviation": "CLE"
+        },
+        "venue": {
+          "id": 50,
+          "name": "FirstEnergy Stadium"
+        },
+        "venueAllegiance": "NEUTRAL",
+        "scheduleStatus": "NORMAL",
+        "originalStartTime": null,
+        "delayedOrPostponedReason": null,
+        "playedStatus": "COMPLETED",
+        "attendance": null,
+        "officials": [],
+        "broadcasters": [],
+        "weather": null
+      },
+      "score": {
+        "currentQuarter": null,
+        "currentQuarterSecondsRemaining": null,
+        "currentIntermission": null,
+        "teamInPossession": null,
+        "currentDown": null,
+        "currentYardsRemaining": null,
+        "lineOfScrimmage": null,
+        "awayScoreTotal": 19,
+        "homeScoreTotal": 7,
+        "quarters": [
+          {
+            "quarterNumber": 1,
+            "awayScore": 7,
+            "homeScore": 0
+          },
+          {
+            "quarterNumber": 2,
+            "awayScore": 3,
+            "homeScore": 7
+          },
+          {
+            "quarterNumber": 3,
+            "awayScore": 0,
+            "homeScore": 0
+          },
+          {
+            "quarterNumber": 4,
+            "awayScore": 9,
+            "homeScore": 0
+          }
+        ]
+      }
+    }
+  ],
+  "teamsWithByes": [
+    {
+      "id": 69,
+      "abbreviation": "CAR"
+    },
+    {
+      "id": 65,
+      "abbreviation": "IND"
+    },
+    {
+      "id": 78,
+      "abbreviation": "SF"
+    },
+    {
+      "id": 51,
+      "abbreviation": "NYJ"
+    }
+  ],
+  "references": {
+    "teamReferences": [
+      {
+        "id": 51,
+        "city": "New York",
+        "name": "Jets",
+        "abbreviation": "NYJ",
+        "homeVenue": {
+          "id": 63,
+          "name": "MetLife Stadium"
+        },
+        "teamColoursHex": [],
+        "socialMediaAccounts": [],
+        "officialLogoImageSrc": null
+      },
+      {
+        "id": 58,
+        "city": "Cleveland",
+        "name": "Browns",
+        "abbreviation": "CLE",
+        "homeVenue": {
+          "id": 50,
+          "name": "FirstEnergy Stadium"
+        },
+        "teamColoursHex": [],
+        "socialMediaAccounts": [],
+        "officialLogoImageSrc": null
+      },
+      {
+        "id": 60,
+        "city": "Chicago",
+        "name": "Bears",
+        "abbreviation": "CHI",
+        "homeVenue": {
+          "id": 48,
+          "name": "Soldier Field"
+        },
+        "teamColoursHex": [],
+        "socialMediaAccounts": [],
+        "officialLogoImageSrc": null
+      },
+      {
+        "id": 61,
+        "city": "Detroit",
+        "name": "Lions",
+        "abbreviation": "DET",
+        "homeVenue": {
+          "id": 53,
+          "name": "Ford Field"
+        },
+        "teamColoursHex": [],
+        "socialMediaAccounts": [],
+        "officialLogoImageSrc": null
+      },
+      {
+        "id": 64,
+        "city": "Houston",
+        "name": "Texans",
+        "abbreviation": "HOU",
+        "homeVenue": {
+          "id": 55,
+          "name": "NRG Stadium"
+        },
+        "teamColoursHex": [],
+        "socialMediaAccounts": [],
+        "officialLogoImageSrc": null
+      },
+      {
+        "id": 65,
+        "city": "Indianapolis",
+        "name": "Colts",
+        "abbreviation": "IND",
+        "homeVenue": {
+          "id": 56,
+          "name": "Lucas Oil Stadium"
+        },
+        "teamColoursHex": [],
+        "socialMediaAccounts": [],
+        "officialLogoImageSrc": null
+      },
+      {
+        "id": 66,
+        "city": "Jacksonville",
+        "name": "Jaguars",
+        "abbreviation": "JAX",
+        "homeVenue": {
+          "id": 57,
+          "name": "EverBank Field"
+        },
+        "teamColoursHex": [],
+        "socialMediaAccounts": [],
+        "officialLogoImageSrc": null
+      },
+      {
+        "id": 69,
+        "city": "Carolina",
+        "name": "Panthers",
+        "abbreviation": "CAR",
+        "homeVenue": {
+          "id": 47,
+          "name": "Bank of America Stadium"
+        },
+        "teamColoursHex": [],
+        "socialMediaAccounts": [],
+        "officialLogoImageSrc": null
+      },
+      {
+        "id": 76,
+        "city": "Arizona",
+        "name": "Cardinals",
+        "abbreviation": "ARI",
+        "homeVenue": {
+          "id": 43,
+          "name": "University of Phoenix Stadium"
+        },
+        "teamColoursHex": [],
+        "socialMediaAccounts": [],
+        "officialLogoImageSrc": null
+      },
+      {
+        "id": 78,
+        "city": "San Francisco",
+        "name": "49ers",
+        "abbreviation": "SF",
+        "homeVenue": {
+          "id": 68,
+          "name": "Levi's Stadium"
+        },
+        "teamColoursHex": [],
+        "socialMediaAccounts": [],
+        "officialLogoImageSrc": null
+      }
+    ],
+    "venueReferences": [
+      {
+        "id": 48,
+        "name": "Soldier Field",
+        "city": "Chicago, IL",
+        "country": "USA",
+        "geoCoordinates": null,
+        "capacitiesByEventType": [],
+        "playingSurface": null,
+        "baseballDimensions": [],
+        "hasRoof": null,
+        "hasRetractableRoof": null
+      },
+      {
+        "id": 50,
+        "name": "FirstEnergy Stadium",
+        "city": "Cleveland, OH",
+        "country": "USA",
+        "geoCoordinates": null,
+        "capacitiesByEventType": [],
+        "playingSurface": null,
+        "baseballDimensions": [],
+        "hasRoof": null,
+        "hasRetractableRoof": null
+      },
+      {
+        "id": 55,
+        "name": "NRG Stadium",
+        "city": "Houston, TX",
+        "country": "USA",
+        "geoCoordinates": null,
+        "capacitiesByEventType": [],
+        "playingSurface": null,
+        "baseballDimensions": [],
+        "hasRoof": null,
+        "hasRetractableRoof": null
+      }
+    ]
+  }
+}
